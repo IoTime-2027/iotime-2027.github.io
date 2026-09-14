@@ -4,6 +4,8 @@ title: 5th International Workshop on the Internet of Time-Critical Things
 excerpt_separator:  <!--more-->
 ---
 
+![Welcome to Fabulous Las Vegas]({{ '/assets/images/las_vegas.png' | relative_url }})
+
 IoTime 2027 (WS-07) is a workshop held in conjunction with the **[IEEE Consumer Communications & Networking Conference (CCNC 2027)](https://ccnc2027.ieee-ccnc.org/)**: held at the Flamingo Hotel and Casino, Las Vegas, NV, USA.
 
 - Submission deadline: **October 4, 2026**
