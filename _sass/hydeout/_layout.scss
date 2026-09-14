@@ -81,6 +81,11 @@ body {
   p.lead {
     display: none;
   }
+
+  // Keep the nav reachable on every page, not just the home page
+  #sidebar-nav-links {
+    display: flex;
+  }
 }
 
 // Make header elements blend into sidebar / background
