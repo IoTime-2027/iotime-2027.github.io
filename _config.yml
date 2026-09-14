@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            IoTime 2027
 tagline:          'IoTime 2027'
 #description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-description:      '5th IEEE International Workshop on the Internet of Time-Critical Things'
+description:      '5th International Workshop on the Internet of Time-Critical Things'
 url:              https://iotime-2027.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

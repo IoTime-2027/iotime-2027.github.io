@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 5th IEEE International Workshop on the Internet of Time-Critical Things
+title: 5th International Workshop on the Internet of Time-Critical Things
 excerpt_separator:  <!--more-->
 ---
 
-IoTime 2027 is a workshop held in conjunction with the **[IEEE Consumer Communications & Networking Conference (CCNC 2027)](https://ccnc2027.ieee-ccnc.org/)**: held at the Flamingo Hotel and Casino, Las Vegas, NV, USA.
+IoTime 2027 (WS-07) is a workshop held in conjunction with the **[IEEE Consumer Communications & Networking Conference (CCNC 2027)](https://ccnc2027.ieee-ccnc.org/)**: held at the Flamingo Hotel and Casino, Las Vegas, NV, USA.
 
 - Submission deadline: **October 4, 2026**
 - Acceptance Notification: *November 10, 2026*
