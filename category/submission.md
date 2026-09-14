@@ -3,7 +3,7 @@ layout: category
 title: Submission Instructions
 ---
 
-**Submit your paper via EDAS** — link to be announced.
+**[Submit your paper via EDAS](https://edas.info/newPaper.php?c=35666&track=139764)**
 
 Papers should be six (6) pages in length using the two-column IEEE conference style (10pt font, US letter size). Accepted papers may include up to two (2) extra pages in the camera-ready version, with an over-length page charge of USD 100 per page.
 
