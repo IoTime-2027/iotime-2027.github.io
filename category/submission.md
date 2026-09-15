@@ -5,10 +5,7 @@ title: Submission Instructions
 
 **[Submit your paper via EDAS](https://edas.info/newPaper.php?c=35666&track=139764)**
 
-Papers should be six (6) pages in length using the two-column IEEE conference style (10pt font, US letter size). Accepted papers may include up to two (2) extra pages in the camera-ready version, with an over-length page charge of USD 100 per page.
-
-More information regarding the submission guidelines can be found at:
-<https://ccnc2027.ieee-ccnc.org/authors/call-workshop-papers>
+All papers for the workshops should be submitted via EDAS, and please make sure to follow the [Submission Guidelines](https://ccnc2027.ieee-ccnc.org/authors/call-workshop-papers). All submissions should be written in English with a maximum paper length of six (6) pages (10-point font) including figures. Maximum three (3) additional pages are allowed, with over length page charge of USD100 if accepted. Papers exceeding nine (9) pages will not be accepted by EDAS.
 
 Accepted and presented papers will be published in the IEEE CCNC 2027 Conference Proceedings and submitted to IEEE Xplore.
 
